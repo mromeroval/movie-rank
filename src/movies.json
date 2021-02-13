@@ -68,5 +68,75 @@
       "rank": "10",
       "link": "http://www.imdb.com/title/tt0137523/",
       "year": "1999"
+  },
+  {
+      "name": "Star Wars: Episode V - The Empire Strikes Back",
+      "rating": "8.8",
+      "rank": "11",
+      "link": "http://www.imdb.com/title/tt0080684/",
+      "year": "1980"
+  },
+  {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "rating": "8.8",
+      "rank": "12",
+      "link": "http://www.imdb.com/title/tt0120737/",
+      "year": "2001"
+  },
+  {
+      "name": "One Flew Over the Cuckoo's Nest",
+      "rating": "8.7",
+      "rank": "13",
+      "link": "http://www.imdb.com/title/tt0073486/",
+      "year": "1975"
+  },
+  {
+      "name": "Goodfellas",
+      "rating": "8.7",
+      "rank": "14",
+      "link": "http://www.imdb.com/title/tt0099685/",
+      "year": "1990"
+  },
+  {
+      "name": "Seven Samurai",
+      "rating": "8.7",
+      "rank": "15",
+      "link": "http://www.imdb.com/title/tt0047478/",
+      "year": "1954"
+  },
+  {
+      "name": "Inception",
+      "rating": "8.7",
+      "rank": "16",
+      "link": "http://www.imdb.com/title/tt1375666/",
+      "year": "2010"
+  },
+  {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "rating": "8.7",
+      "rank": "17",
+      "link": "http://www.imdb.com/title/tt0076759/",
+      "year": "1977"
+  },
+  {
+      "name": "Forrest Gump",
+      "rating": "8.7",
+      "rank": "18",
+      "link": "http://www.imdb.com/title/tt0109830/",
+      "year": "1994"
+  },
+  {
+      "name": "The Matrix",
+      "rating": "8.7",
+      "rank": "19",
+      "link": "http://www.imdb.com/title/tt0133093/",
+      "year": "1999"
+  },
+  {
+      "name": "The Lord of the Rings: The Two Towers",
+      "rating": "8.7",
+      "rank": "20",
+      "link": "http://www.imdb.com/title/tt0167261/",
+      "year": "2002"
   }
 ]
