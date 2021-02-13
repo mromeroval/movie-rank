@@ -1,6 +1,6 @@
 {
   "name": "movie-rank",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Library of movies and ranking",
   "main": "src/index.js",
   "scripts": {
