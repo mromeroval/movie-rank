@@ -1,0 +1,26 @@
+{
+  "name": "movie-rank",
+  "version": "0.0.1",
+  "description": "Library of movies and ranking",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mromeroval/movie-rank.git"
+  },
+  "keywords": [
+    "movie",
+    "ranking"
+  ],
+  "author": "Mauricio Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mromeroval/movie-rank/issues"
+  },
+  "homepage": "https://github.com/mromeroval/movie-rank#readme",
+  "dependencies": {
+    "unique-random-array": "^2.0.0"
+  }
+}
